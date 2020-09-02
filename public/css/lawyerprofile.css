@@ -1,0 +1,138 @@
+
+.abc{
+    background-color: blue;
+  
+  }
+  
+  .firstd{
+      background-color:  blanchedalmond;
+        height: 750px;
+      
+  }
+  
+  .sec{
+      margin-top: 50px;
+      width: 100%;
+      height: 50px;
+  }
+  
+  .hid{
+      margin-right: 30px;
+      margin-left: 70px;
+      font-size: 37px;
+  }
+  
+  
+  .maindiv{
+      background-color:   blanchedalmond ;
+      width:100%;
+      height: 520px;
+      margin-top: 20px;
+  
+  }
+  
+  
+  .siddiv{
+      width: 25%;
+      background-color: blanchedalmond;
+      margin-left:70px ;
+      height: 520px;
+  }
+  
+  .pr{
+      font-size: 22px;
+      margin-top: 15px;
+      margin-left: 35px;
+  
+  }
+  
+  .img{
+      margin-top: 5px;
+      width: 100%;
+      height: 250px;
+  }
+  
+  .info{
+      margin-top: 20px;
+      margin-left: 35px;
+      font-family: inherit;
+  
+  }
+  
+  .info2{
+      margin-top: 20px;
+      margin-left: 60px;
+      color: gray;
+      font-family: cursive;
+  
+  }
+  
+  .right-div{
+      background-color: blanchedalmond;
+      margin-left: 45px;
+      margin-right: 50px;
+      width: 750px;
+      height: 520px;
+          
+  }
+  
+  
+  .information{
+      margin-top:30px ;
+      margin-left:40px; 
+      font-size: 13px;
+      font-family: inherit;
+  
+  }
+  
+  .information2{
+      margin-top:30px ;
+      margin-left:50px;
+      color:grey; 
+      font-size: 13px;
+      width:10% ;
+      font-family: inherit;
+  
+  
+  }
+  
+    
+  .information3{
+      width: 25%;
+      margin-left: 60px;
+      margin-top: 30px;
+      font-size: 13px;
+      font-family: inherit;
+  
+      
+      
+  }
+  
+  .information4{
+    
+      width: 18%;
+      margin-left: 10px;
+      margin-top: 30px;
+      color: gray;
+      font-size: 13px;
+      font-family:inherit;
+      
+  }
+  
+  .em{
+      color:#2196f3;
+  }
+  
+  .p1{
+      margin-top: 20px;
+      font-size: 30px;
+      margin-left:35px ;
+  
+  
+  }
+  
+  .last{
+      margin-left:35px;
+      font-family: cursive;
+      
+  }
